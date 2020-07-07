@@ -8,3 +8,7 @@ The project presents the technologies used, the theoretical aspects and the impl
 All information resulting from the end of the project is attributed to the city of Brașov, Romania. On the Airbnb site it contains about 300 diverse listings. Prices, room type, reviews are just a few criteria applied to this analysis.
  
 Finally, the resulting graphs and numbers will show both the average prices of these listings and the most areas of interest in the city. 
+
+![Image of Project] (https://github.com/ArianaAnd/DataAnalysis/blob/master/coordonates.png)
+![Image of Project] (https://github.com/ArianaAnd/DataAnalysis/blob/master/map.png)
+![Image of Project] (https://github.com/ArianaAnd/DataAnalysis/blob/master/Linear Regresion.png)
