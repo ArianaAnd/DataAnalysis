@@ -9,6 +9,8 @@ All information resulting from the end of the project is attributed to the city 
  
 Finally, the resulting graphs and numbers will show both the average prices of these listings and the most areas of interest in the city. 
 
+TOOLS: ANACONDA, JUPYTER NOTEBOOK, PARSEHUB(EXTRACT DATA), C#(EXTRACT DATA), PYTHON. NODEJS(EXTRACT DATA)
+
 
 ![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/Project.jpg)
 
