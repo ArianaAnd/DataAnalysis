@@ -12,18 +12,24 @@ The reference source of the project were similar projects developed in Berlin an
 
 What I wanted to prove through this project? 
 This project shows the price level on Airbnb of Brasov. E.g:
-- 268 listings
--minimum price per night 81 RON
--maximum price per night 550 RON
-- average prices 204.60
--sum of prices of all listings 54833.37
--prices worth 140.0 represented 25% of the listings
+-268 listings;
+
+-minimum price per night 81 RON;
+
+-maximum price per night 550 RON;
+
+- average prices 204.60;
+
+-sum of prices of all listings 54833.37;
+
+-prices worth 140.0 represented 25% of the listings;
 etc.
 
 What is Machine Learning doing in this project?
 Listing Price Prediction - Economy
 How?
-Moving Average
+
+##Moving Average
 Introduction
 
 ‘Average’ is easily one of the most common things we use in our day-to-day lives. For instance, calculating the average marks to determine overall performance, or finding the average temperature of the past few days to get an idea about today’s temperature – these all are routine tasks we do on a regular basis. So this is a good starting point to use on our dataset for making predictions.
@@ -59,10 +65,14 @@ ARIMA is a very popular statistical method for time series forecasting. ARIMA mo
 
 Parameter tuning for ARIMA consumes a lot of time. So we will use auto ARIMA which automatically selects the best combination of (p,q,d) that provides the least error. To read more about how auto ARIMA works, refer to this article:
 
-    Build High Performance Time Series Models using Auto ARIMA
     
-    #So far, we have presented the economic part of the prediction, but we have approached another slightly easier option, in order to balance the results. Do both methods give the same results?
+    
+ #So far, we have presented the economic part of the prediction, but we have approached another slightly easier option, in order to balance the results. Do both methods give the same results?
+ ##The K-nearest neighbors algorithm
 
+The K-nearest neighbors (KNN) algorithm works similarly to the three-step process we outlined earlier to compare our listing to similar listings and take the average price. Let’s look at it in some more detail:
+
+First, we select the number of similar listings k, that we want to compare with. 
 
 TOOLS: ANACONDA, JUPYTER NOTEBOOK, PARSEHUB(EXTRACT DATA), C#(EXTRACT DATA), PYTHON. NODEJS(EXTRACT DATA)
 
