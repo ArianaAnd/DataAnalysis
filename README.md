@@ -29,7 +29,7 @@ What is Machine Learning doing in this project?
 Listing Price Prediction - Economy
 How?
 
-##Moving Average
+## Moving Average
 Introduction
 
 ‘Average’ is easily one of the most common things we use in our day-to-day lives. For instance, calculating the average marks to determine overall performance, or finding the average temperature of the past few days to get an idea about today’s temperature – these all are routine tasks we do on a regular basis. So this is a good starting point to use on our dataset for making predictions.
@@ -39,7 +39,7 @@ The predicted closing price for each day will be the average of a set of previou
 We will implement this technique on our dataset. The first step is to create a dataframe that contains only the Date and Close price columns, then split it into train and validation sets to verify our predictions
 ![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/6.JPG)
 
-Linear Regression
+## Linear Regression
 Introduction
 
 The most basic machine learning algorithm that can be implemented on this data is linear regression. The linear regression model returns an equation that determines the relationship between the independent variables and the dependent variable.
@@ -67,12 +67,26 @@ Parameter tuning for ARIMA consumes a lot of time. So we will use auto ARIMA whi
 
     
     
- #So far, we have presented the economic part of the prediction, but we have approached another slightly easier option, in order to balance the results. Do both methods give the same results?
- ##The K-nearest neighbors algorithm
+ # So far, we have presented the economic part of the prediction, but we have approached another slightly easier option, in order to balance the results. Do both methods give the same results?
+ ## The K-nearest neighbors algorithm
 
 The K-nearest neighbors (KNN) algorithm works similarly to the three-step process we outlined earlier to compare our listing to similar listings and take the average price. Let’s look at it in some more detail:
 
 First, we select the number of similar listings k, that we want to compare with. 
+![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/10.JPG)
+![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/11.JPG)
+ ## Euclidean distance
+
+When trying to predict a continuous value like price, the main similarity metric that’s used is Euclidean distance. Here’s the general formula for Euclidean distance: \(d = \sqrt{(q_1-p_1)^2 + (q_2-p_2)^2 + \cdots + (q_n-p_n)^2}\) where \( q_1 \) to \( q_n \) represent the feature values for one observation and \( p_1 \) to \( p_n \) represent the feature values for the other observation.
+
+If your head just exploded, don’t worry! We’re going to break that down into smaller pieces. We’ll start by…
+## Building a Basic KNN Model
+ # Introduction to scikit-learn
+
+We’ve been writing functions from scratch to train our k-nearest neighbor models. This is helpful to understand how the mechanics work, but now that we understand the underlying fundamentals, we can work much more quickly and efficiently using Python’s scikit-learn library.
+
+Scikit-learn is the most popular machine learning library in Python. It has built-in functions for all of the major machine learning algorithms and a simple, unified workflow. Both of these properties allow data scientists to be incredibly productive when training and testing different models on a new data set.
+
 
 TOOLS: ANACONDA, JUPYTER NOTEBOOK, PARSEHUB(EXTRACT DATA), C#(EXTRACT DATA), PYTHON. NODEJS(EXTRACT DATA)
 
