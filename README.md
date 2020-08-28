@@ -95,6 +95,9 @@ https://github.com/ArianaAnd/DataAnalysis-Diploma-Project/blob/master/Clip.mp4
 https://github.com/ArianaAnd/DataAnalysis-Diploma-Project/blob/master/Diploma%20Project%20Presentation.pdf
 
 
+#### This project is a very good source to learn the basics of data mining, data analysis and of course Machine Learning. The project can be customized and attributed to many other ideas
+
+
 TOOLS: ANACONDA, JUPYTER NOTEBOOK, PARSEHUB(EXTRACT DATA), C#(EXTRACT DATA), PYTHON. NODEJS(EXTRACT DATA)
 
 
