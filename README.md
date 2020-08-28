@@ -22,5 +22,6 @@ TOOLS: ANACONDA, JUPYTER NOTEBOOK, PARSEHUB(EXTRACT DATA), C#(EXTRACT DATA), PYT
 ![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/3.JPG)
 ![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/5.JPG)
 ![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/7.JPG)
-![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/map.png)
+![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/Cluster.jpg)
+![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/regresia.jpg)
 ![Image of Project](https://github.com/ArianaAnd/DataAnalysis/blob/master/map.png)
