@@ -68,6 +68,7 @@ Parameter tuning for ARIMA consumes a lot of time. So we will use auto ARIMA whi
     
     
  # So far, we have presented the economic part of the prediction, but we have approached another slightly easier option, in order to balance the results. Do both methods give the same results?
+ ### Are the values identical? No, because Machine Learning takes a certain set of data that it tests, then another set of data and so on, the values can be approximately identical, but not 100%.
  ## The K-nearest neighbors algorithm
 
 The K-nearest neighbors (KNN) algorithm works similarly to the three-step process we outlined earlier to compare our listing to similar listings and take the average price. Let’s look at it in some more detail:
