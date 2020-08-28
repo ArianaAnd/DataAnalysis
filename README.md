@@ -87,6 +87,12 @@ We’ve been writing functions from scratch to train our k-nearest neighbor mode
 
 Scikit-learn is the most popular machine learning library in Python. It has built-in functions for all of the major machine learning algorithms and a simple, unified workflow. Both of these properties allow data scientists to be incredibly productive when training and testing different models on a new data set.
 
+# This is only part of the reasoning, of the total project. The full description of the project is in the attached documentation.
+![Image of Project](https://github.com/ArianaAnd/DataAnalysis-Diploma-Project/blob/master/Licenta2020v3.docx)
+# Or you can see some additional details about the look in
+![Image of Project](https://github.com/ArianaAnd/DataAnalysis-Diploma-Project/blob/master/Clip.mp4)
+![Image of Project](https://github.com/ArianaAnd/DataAnalysis-Diploma-Project/blob/master/Diploma%20Project%20Presentation.pdf)
+
 
 TOOLS: ANACONDA, JUPYTER NOTEBOOK, PARSEHUB(EXTRACT DATA), C#(EXTRACT DATA), PYTHON. NODEJS(EXTRACT DATA)
 
