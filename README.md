@@ -1,5 +1,6 @@
 # DataAnalysis - Diploma Project
-##NumPy, Scrapy, BeautifulSoup, SciPy, Pandas, SciKit-Learn, Matplotlib,Plotly, Bokeh, Seaborn
+
+## NumPy, Scrapy, BeautifulSoup, SciPy, Pandas, SciKit-Learn, Matplotlib,Plotly, Bokeh, Seaborn
 
 
 Spatial analysis of tourist areas using social networks is the study and deepening of the concepts and processes of data extraction, data analysis and visualization. The study also contains the use of Machine Learning techniques making a small introduction to the field of data science.
