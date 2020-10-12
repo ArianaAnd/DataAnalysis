@@ -1,4 +1,4 @@
-# DataAnalysis - Diploma Project
+# DataAnalysis and Machine Learning - Diploma Project
 
 ## NumPy, Scrapy, BeautifulSoup, SciPy, Pandas, SciKit-Learn, Matplotlib,Plotly, Bokeh, Seaborn
 
